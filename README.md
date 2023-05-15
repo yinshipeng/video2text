@@ -14,7 +14,7 @@ SpeechRecognition 是一个库，可以在音频文件上执行语音识别；�
 
 ### 安装 FFmpeg
 
-FFFmpeg 是用于录制、转换和流式传输音频和视频的完整跨平台解决方案。官网地址是：https://ffmpeg.org/
+FFmpeg 是用于录制、转换和流式传输音频和视频的完整跨平台解决方案。官网地址是：https://ffmpeg.org
 
 具体安装步骤参考官网或博客，在此不做详细描述。
 
